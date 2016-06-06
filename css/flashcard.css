@@ -1,0 +1,118 @@
+html { 
+  /*background: url("../images/8bitseattlelow.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+body {
+	font-size: 125%;
+	width: 100%;
+	/*margin-top: 2%;*/
+	height: auto;
+	top: 0;
+	left: 0;
+	background-size: 90%;
+	height: auto;
+}
+
+p{
+	font-family: helvetica;
+}
+
+#next{
+	float:right;
+	margin:10%;
+	width: 15%;
+	height: 30%;
+	position: static;
+
+}
+
+#prev{
+	float:left;
+	margin: 10%;
+	width: 15%;
+	height: 30%;
+	position: static;
+}
+
+#audioIcon{
+	margin-top: 8%;
+	width: 10%;
+	height: 10%;
+	position: static;
+}
+
+#content{
+	background-color: #2E8B57;
+	margin:0em auto;
+	margin-top: 0%;
+	width: 75%;
+	height: 25%;
+	text-align: center;
+	padding: 1%;
+	border: #2E8B57;
+	margin-bottom: 5%;
+}
+
+.imageBorder{
+	min-width: 100px;
+	min-height: 100px;
+	max-width: 600px;
+	max-height: 400px;
+
+	width: 100%;
+	height: 100%;
+
+	position: static;
+}
+
+#audioIcon:hover,#next:hover,#prev:hover{
+	opacity: 0.7;
+}
+
+.desc {
+	font-size: 1.2em;
+	margin: 0em auto;
+	max-width: 500em;
+	max-height: 2em;
+}
+
+.jumbotron {
+	margin-top: 0%;
+	margin-bottom: 0%;
+	background-color: #FFFF99;	
+}
+
+.menu
+{
+	float: left;
+}
+
+#menu{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+footer{
+	margin-right: 85%;
+    background-color: #c3c2c2;
+}
+
+body {
+	/*background: url("../images/8bitseattlelow.png") no-repeat center center fixed; */
+	background-color: #2E8B57; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+footer{
+  margin-top: 1%;
+  padding-bottom: 2%;
+  background-color: #006400;
+}

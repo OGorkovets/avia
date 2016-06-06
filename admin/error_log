@@ -1,0 +1,8 @@
+[05-Jun-2016 20:38:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/aviatest/public_html/admin/cardDelete.php on line 6
+[05-Jun-2016 20:38:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/aviatest/public_html/admin/cardDelete.php on line 6
+[05-Jun-2016 20:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/aviatest/public_html/admin/cardDelete.php on line 6
+[05-Jun-2016 20:45:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/aviatest/public_html/admin/cardDelete.php on line 7
+[05-Jun-2016 20:45:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/aviatest/public_html/admin/cardDelete.php on line 7
+[05-Jun-2016 20:46:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/aviatest/public_html/admin/cardDelete.php on line 7
+[05-Jun-2016 20:46:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/aviatest/public_html/admin/cardDelete.php on line 7
+[05-Jun-2016 20:47:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/aviatest/public_html/admin/cardDelete.php on line 7
